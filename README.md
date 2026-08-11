@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jverass)
 ![Rio de Janeiro](https://img.shields.io/badge/Rio%20de%20Janeiro-242428?style=flat-square)
 
-Trabalho na VVS Sistemas como único desenvolvedor back-end de uma linha de sistemas corporativos em produção — ERP, CRM, WMS e plataforma de atendimento omnichannel. Construo do banco à interface: .NET e PostgreSQL no servidor, React e Next.js no front, com Angular e WPF sendo migrados para essa stack.
+Trabalho na VVS Sistemas como desenvolvedor back-end de uma linha de sistemas corporativos em produção — ERP, CRM, WMS e plataforma de atendimento omnichannel. Construo do banco à interface: .NET e PostgreSQL no servidor, React e Next.js no front, com Angular e WPF sendo migrados para essa stack.
 
 ## Stack
 
@@ -15,8 +15,6 @@ Trabalho na VVS Sistemas como único desenvolvedor back-end de uma linha de sist
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Arquitetura Hexagonal](https://img.shields.io/badge/Arquitetura%20Hexagonal-242428?style=flat-square)
-![TDD](https://img.shields.io/badge/TDD-242428?style=flat-square)
 
 **Front-end e mobile**
 
@@ -49,11 +47,12 @@ Quase tudo que construí nesses 7 anos é proprietário. Não posso publicar o c
 
 **Listagem de saídas do ERP: ~10 segundos → milissegundos.** Mesmo tipo de problema, contexto diferente: reescrita das queries e indexação adequada sobre um volume que só cresce.
 
-Esses dois casos resumem bem o trabalho que faço: sistema em produção, usuário reclamando, gargalo medido antes e depois.
+**Integração com comércio eletrônico:** Integrei diversas plataformas como a Tray, Woocomerce, Bling, Ifood.
+
+**Implementação de diversos cadastros:** Desenvolvi telas nas diversas tecnologias listadas na area de front-end.
+
+Esses casos resumem bem o trabalho que faço.
 
 ## O que estou construindo
 
-É aqui que o código público vai aparecer:
-
-- **Evodin** — app de finanças pessoais em Flutter com back-end Supabase. Design system próprio, gráficos construídos em `CustomPainter` sem biblioteca externa.
 - **Homelab** — infraestrutura self-hosted com WSL2, Docker, PostgreSQL, Redis, RabbitMQ, n8n e Tailscale, usada como ambiente de desenvolvimento e laboratório de experimentação com IA.
