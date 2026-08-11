@@ -11,7 +11,7 @@ Trabalho na VVS Sistemas como desenvolvedor back-end de uma linha de sistemas co
 
 **Back-end**
 
-![.NET](https://img.shields.io/badge/.NET%20-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%206--10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -47,11 +47,16 @@ Quase tudo que construí nesses 7 anos é proprietário. Não posso publicar o c
 
 **Listagem de saídas do ERP: ~10 segundos → milissegundos.** Mesmo tipo de problema, contexto diferente: reescrita das queries e indexação adequada sobre um volume que só cresce.
 
-**Integração com comércio eletrônico:** Construí a integração do ERP com Tray, WooCommerce, Bling, iFood, Magalu, Wake, Skyhub(americanas), shopee: envio e atualização de produtos, sincronização de estoque, e entrada de pedidos e vendas de volta no ERP.
+**Integração entre o ERP e plataformas de e-commerce.** Construí a integração do ERP com Tray, WooCommerce, Bling, iFood, Magalu, Wake, SkyHub (Americanas) e Shopee: envio e atualização de produtos, sincronização de estoque, e entrada de pedidos e vendas de volta no ERP. Oito plataformas, cada uma com API e modelo de dados próprios, sincronizando nos dois sentidos contra a mesma base.
 
-**Implementação de cadastros:** Módulo de Justificativas, Departamentos, Contatos, Tags e muitas outras no **CRM**, em **Angular**. mais de 30 telas construídas do zero, cobrindo Anuncios, comércio eletrônico, Antecipação de recebiveis, Localização de produtos e muitas outras, usadas diariamente por clientes da VVS Sistemas no CPlus 5, feito em **WPF**. Construi funcionalidades como, Inventariar Produto, Etiqueta de Recebimento, Consultar posição do estoque, Consultar posições disponiveis, carregamentos, abastecer em pickin entre muitas outras no WMS Mobile, feito em **MAUI**. Construi algumas telas em Flutter no app Dashboard Mobile, feito em **Flutter**.
+**Telas e módulos em quatro stacks de front-end.**
 
-**Microsserviços:** Monitoro o funcionamento de serviços internos da VVS Sistemas, sendo responsável por manutenções, hotfixes e incrementação para um funcionamento continuo de todos os nossos produtos.
+- **CRM, em Angular** — módulos de Justificativas, Departamentos, Contatos e Tags e muitas outras.
+- **CPlus 5 (ERP), em WPF** — mais de 30 telas construídas do zero, cobrindo anúncios, comércio eletrônico, antecipação de recebíveis e localização de produtos, usadas diariamente pelos clientes da VVS.
+- **WMS Mobile, em MAUI** — inventário de produto, etiqueta de recebimento, consulta de posição de estoque e de posições disponíveis, carregamentos e abastecimento em picking.
+- **Dashboard Mobile, em Flutter** — telas do aplicativo.
+
+**Microsserviços internos.** Respondo pelos serviços internos que sustentam os produtos da VVS — manutenção, correções em produção e evolução contínua para manter tudo no ar.
 
 Esses casos resumem bem o trabalho que faço.
 
