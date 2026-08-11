@@ -51,15 +51,15 @@ Quase tudo que construí nesses 7 anos é proprietário. Não posso publicar o c
 
 **Telas e módulos em quatro stacks de front-end.**
 
-- **CRM, em Angular** — módulos de Justificativas, Departamentos, Contatos e Tags e muitas outras.
-- **CPlus 5 (ERP), em WPF** — mais de 30 telas construídas do zero, cobrindo anúncios, comércio eletrônico, antecipação de recebíveis e localização de produtos, usadas diariamente pelos clientes da VVS.
-- **WMS Mobile, em MAUI** — inventário de produto, etiqueta de recebimento, consulta de posição de estoque e de posições disponíveis, carregamentos e abastecimento em picking.
-- **Dashboard Mobile, em Flutter** — telas do aplicativo.
+- **CRM, em Angular**: módulos de Justificativas, Departamentos, Contatos e Tags e muitas outras.
+- **CPlus 5 (ERP), em WPF**: mais de 30 telas construídas do zero, cobrindo anúncios, comércio eletrônico, antecipação de recebíveis e localização de produtos, usadas diariamente pelos clientes da VVS.
+- **WMS Mobile, em MAUI**: inventário de produto, etiqueta de recebimento, consulta de posição de estoque e de posições disponíveis, carregamentos e abastecimento em picking.
+- **Dashboard Mobile, em Flutter**: tela de login, dashboard e componentização de widgets.
 
-**Microsserviços internos.** Respondo pelos serviços internos que sustentam os produtos da VVS — manutenção, correções em produção e evolução contínua para manter tudo no ar.
+**Microsserviços internos.** Respondo pelos serviços internos que sustentam os produtos da VVS. Manutenção, correções em produção e evolução contínua para manter tudo no ar.
 
 Esses casos resumem bem o trabalho que faço.
 
-## O que estou construindo
+## O que estou construindo no momento
 
 - **Homelab** — infraestrutura self-hosted com WSL2, Docker, PostgreSQL, Redis, RabbitMQ, n8n e Tailscale, usada como ambiente de desenvolvimento e laboratório de experimentação com IA.
