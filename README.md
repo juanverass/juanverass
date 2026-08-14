@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jverass)
 ![Rio de Janeiro](https://img.shields.io/badge/Rio%20de%20Janeiro-242428?style=flat-square)
 
-Trabalho na VVS Sistemas como desenvolvedor back-end de uma linha de sistemas corporativos em produção — ERP, CRM, WMS e plataforma de atendimento omnichannel. Construo do banco à interface: .NET e PostgreSQL no servidor, React e Next.js no front, com Angular e WPF sendo migrados para essa stack.
+Trabalho na VVS Sistemas como desenvolvedor back-end de uma linha de sistemas corporativos em produção. Trabalho atualmente com ERP, CRM, WMS e uma plataforma de atendimento omnichannel. Construo do banco à interface: .NET e PostgreSQL no servidor, React e Next.js no front, com Angular e WPF sendo migrados para essa stack.
 
 ## Stack
 
@@ -62,4 +62,4 @@ Esses casos resumem bem o trabalho que faço.
 
 ## O que estou construindo no momento
 
-- **Homelab** — infraestrutura self-hosted com WSL2, Docker, PostgreSQL, Redis, RabbitMQ, n8n e Tailscale, usada como ambiente de desenvolvimento e laboratório de experimentação com IA.
+- **Homelab:** infraestrutura self-hosted com WSL2, Docker, PostgreSQL, Redis, RabbitMQ, n8n e Tailscale, usada como ambiente de desenvolvimento e laboratório de experimentação com IA.
