@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jverass)
 ![Rio de Janeiro](https://img.shields.io/badge/Rio%20de%20Janeiro-242428?style=flat-square)
 
-Trabalho na VVS Sistemas como desenvolvedor back-end de uma linha de sistemas corporativos em produção. Atuo com ERP, CRM, WMS e uma plataforma de atendimento omnichannel, trabalhando do banco à interface: .NET e PostgreSQL no servidor, React e Next.js no front, além de Angular, WPF, MAUI e Flutter em sistemas existentes.
+Trabalho na VVS Sistemas como **desenvolvedor Full Stack** em uma linha de sistemas corporativos em produção. Atuo com ERP, CRM, WMS e uma plataforma de atendimento omnichannel, trabalhando do banco à interface: .NET e PostgreSQL no back-end, React e Next.js no front-end, além de Angular, WPF, MAUI e Flutter em sistemas existentes.
 
 Fora do trabalho, desenvolvo projetos voltados a **arquitetura de software, produtos SaaS, automação e agentes de IA aplicados ao desenvolvimento**.
 
@@ -100,9 +100,10 @@ Quase tudo que construí profissionalmente é proprietário. Não posso publicar
 
 **Integração entre o ERP e plataformas de e-commerce.** Construí a integração do ERP com Tray, WooCommerce, Bling, iFood, Magalu, Wake, SkyHub (Americanas) e Shopee: envio e atualização de produtos, sincronização de estoque e entrada de pedidos e vendas de volta no ERP. Oito plataformas, cada uma com API e modelo de dados próprios, sincronizando nos dois sentidos contra a mesma base.
 
-**Telas e módulos em quatro stacks de front-end.**
+**Telas, módulos e melhorias em múltiplas stacks de front-end.**
 
-- **CRM, em Angular:** módulos de Justificativas, Departamentos, Contatos e Tags, entre outros.
+- **Novus CRM, em React/Next.js:** atuei em diferentes pontos da interface, incluindo filtro avançado de tickets, melhorias em listagens, atalhos de teclado para execução de funções e outros ajustes de usabilidade e fluxo operacional.
+- **CRM legado, em Angular:** módulos de Justificativas, Departamentos, Contatos e Tags, entre outros.
 - **CPlus 5 (ERP), em WPF:** mais de 30 telas construídas do zero, cobrindo anúncios, comércio eletrônico, antecipação de recebíveis e localização de produtos, usadas diariamente pelos clientes da VVS.
 - **WMS Mobile, em MAUI:** inventário de produto, etiqueta de recebimento, consulta de posição de estoque e de posições disponíveis, carregamentos e abastecimento em picking.
 - **Dashboard Mobile, em Flutter:** tela de login, dashboard e componentização de widgets.
